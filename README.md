@@ -19,39 +19,10 @@ Giúp người quản lý cài đặt ứng dụng Quản lý sản phẩm trên
 - Tính tiến hóa: Ứng dụng dễ dàng cho việc phát triển thêm các tính năng mà không gây ảnh hưởng đến các tính năng đã phát triển trước.
 II.	Phân tích và thiết kế hệ thống
 1.	Sơ đồ tổng quát
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/88828150/210137733-2b9623bf-a295-4a12-84fb-94b1d4de6db4.png)
 
 2.	Sơ đồ đăng nhập
-
-
-
-
-
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/88828150/210137754-09f28519-7b4b-4f8a-b962-1d06b0d5726b.png)
 
 -	Đăng nhập:
 + Mô tả: Cho phép người dùng đăng nhập vào ứng dụng.
@@ -67,10 +38,7 @@ II.	Phân tích và thiết kế hệ thống
 
  
 3.	Sơ đồ quản lý sản phẩm
-
-
- 
-
+![image](https://user-images.githubusercontent.com/88828150/210137772-726b9fdb-033a-42bc-928d-4f872dd4704b.png)
 
 -	 Thêm sản phẩm:
      + Mô tả: Giúp thêm thông tin sản phẩm.
@@ -120,34 +88,50 @@ implementation 'com.squareup.picasso:picasso:2.5.2'
  
 III.	 Thiết kế giao diện người dùng
 1.	Màn hình đăng ký
+![image](https://user-images.githubusercontent.com/88828150/210137700-c420c2bd-40b2-402c-ace5-c46c77b0616b.png)
 
 2.	Màn hình đăng nhập
+![image](https://user-images.githubusercontent.com/88828150/210137779-7f6c9472-c5af-447a-a135-3b3856cd9f6c.png)
 
 3.	Màn hình quên mật khẩu
+![image](https://user-images.githubusercontent.com/88828150/210137781-e04e5d47-350a-4687-938f-c3005751df20.png)
 
 4.	Màn hình trang chủ
- 
+ ![image](https://user-images.githubusercontent.com/88828150/210137783-ddfce2ba-e25c-45c0-a26b-a35234bbd548.png)
+
 5.	Màn hình thêm sản phẩm
+![image](https://user-images.githubusercontent.com/88828150/210137789-3c03220f-66c8-42a0-8610-7a790b141e6d.png)
 
 6.	Màn hình bán sản phẩm
+![image](https://user-images.githubusercontent.com/88828150/210137795-02d1a4d9-0cca-4cff-bf4c-fd4efc329806.png)
 
 7.	Màn hình danh sách sản phẩm
+![image](https://user-images.githubusercontent.com/88828150/210137805-d1da552d-baa7-48e7-a966-438dc4a7c964.png)
 
 8.	Màn hình chi tiết sản phẩm
+![image](https://user-images.githubusercontent.com/88828150/210137812-cc6deb67-716f-4007-9c81-5ceff294d806.png)
 
 9.	Màn hình lịch sử thêm sản phẩm
+![image](https://user-images.githubusercontent.com/88828150/210137808-1071c5ae-0145-40c9-85a0-c2c497309ec9.png)
 
 10.	Màn hình lịch sử xuất sản phẩm
+![image](https://user-images.githubusercontent.com/88828150/210137825-3513074b-1e7e-4547-8b06-cc3f4ff5d1d3.png)
 
 11.	Màn hình thông tin người dùng
+![image](https://user-images.githubusercontent.com/88828150/210137827-5367e308-87d9-448c-ba0e-2e80405ba6ff.png)
 
 12.	Màn hình hỗ trợ
+![image](https://user-images.githubusercontent.com/88828150/210137819-70f86422-44a3-4b49-9dc4-b62387b89a2a.png)
 
 13.	Màn hình hướng dẫn sử dụng
+![image](https://user-images.githubusercontent.com/88828150/210137836-35602bac-5260-4585-9d91-b260fa9ee443.png)
 
 14.	Màn hình đổi mật khẩu
+![image](https://user-images.githubusercontent.com/88828150/210137839-bc7fba76-22fc-48ba-b0ae-f6017d4acec7.png)
 
 15.	Màn hình đổi tên người dùng
+![image](https://user-images.githubusercontent.com/88828150/210137923-36af3286-e486-44fb-b30b-ad5380ca3723.png)
+
 
 IV.	Tổng kết
 1.	Kết luận
